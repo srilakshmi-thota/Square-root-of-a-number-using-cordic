@@ -1,4 +1,4 @@
-# Square-root-of-a-number-using-cordic
+# Square-root-of-a-number-using-hyperbolic-cordic-with-pipelining
 Square root of a number using Hyperbolic CORDIC in Vectoring Mode using 16 stages of pipelining
 cordic_main.v file is the main file that calls all the necessary modules
 pipe_1 is called only for  i=4, 13,40, 121, ...,j,3j+1
